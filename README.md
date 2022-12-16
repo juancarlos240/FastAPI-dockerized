@@ -68,7 +68,7 @@ Settings at the time of writing this gist (15<sup>th</sup> of Dicember 2022).
   
 ### Interactive API docs
 
-Now go to <a href="http://127.0.0.1:8000/docs" class="external-link" target="_blank">http://127.0.0.1:8000/docs</a>.
+Now go to <a href="http://localhost/docs" class="external-link" target="_blank">http://localhost/docs</a>.
 
 ## License
 
