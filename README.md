@@ -1,4 +1,4 @@
-# FastAPI and Docker Image
+# FastAPI Dockerized
 
 <p align="center">
   <a href="https://fastapi.tiangolo.com"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI"></a>
@@ -65,3 +65,11 @@ Settings at the time of writing this gist (15<sup>th</sup> of Dicember 2022).
 2.  Start the Docker Container
 
             docker run -p 80:80 -d  --name fastapi-app fastapi
+  
+### Interactive API docs
+
+Now go to <a href="http://127.0.0.1:8000/docs" class="external-link" target="_blank">http://127.0.0.1:8000/docs</a>.
+
+## License
+
+This project is licensed under the terms of the MIT license.
